@@ -1,0 +1,62 @@
+*INV:okay ? 
+*PAR: mhm .  
+*INV:ready ? 
+*PAR:rhinoceros . 
+*INV:mhm . 
+*PAR:&um I don't know which +...  
+*INV:any animal . 
+*PAR:mhm .  
+*PAR:(.) could we have an elephantq ? 
+*INV:mhm . 
+*PAR:an elephantq goes to dl .  
+*PAR:is ?  
+*INV:give me all of the animals you can think of . 
+*PAR:oh .  
+*PAR:rabbitq isn't [//] is out ? 
+*INV:that's fine . 
+*PAR:dog . 
+*INV:mhm . 
+*PAR:horse . 
+*INV:mhm . 
+*PAR:&um (.) dog . 
+*PAR:oh  I gave it to you .  
+*INV:(.) all the animals . 
+*PAR:pussy cat . 
+*PAR:pigeon . 
+*INV:okay  that's fine . 
+*INV:that's a minute . 
+*INV:now what I want you to do in a minute's time is give me all of the
+*INV:the letter  . 
+*INV:all of the words that start with  . 
+*INV:I don't want any proper names of places or people . 
+*INV:no proper names . 
+*INV:and only one form of the word . 
+*INV:for instance if you gave me the word walkq I wouldn't want you
+*INV:just one form of the word . 
+*PAR: mhm .  
+*INV:no proper names . 
+*INV:all of the words that you can think of beginning with the letter
+*INV:okay ? 
+*PAR:mhm .  
+*INV: ready ? 
+*INV:all of the words beginning with  . 
+*PAR:fudge . 
+*INV:mhm . 
+*PAR:&um +... 
+*PAR:I'm blank on that .  
+*PAR:I don't know .  
+*INV:any word starting with  . 
+*PAR:and I gave you fingersq . 
+*PAR:fusebox . 
+*PAR:(.) Firestone . 
+*INV:is that legal &=laughs ?  
+*INV: yeah  that's fine . 
+*PAR:&hm (.) fingers . 
+*PAR:I gave you that .  
+*PAR:tablet . 
+*INV:(..) all the words starting with  . 
+*PAR:fungus . 
+*PAR:(.) feet . 
+*INV:okay  very good . 
+*PAR: fun . 
+*INV:very good . 

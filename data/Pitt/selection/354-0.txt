@@ -1,0 +1,45 @@
+*INV:you can start now . 
+*INV:name the animals . 
+*PAR:&uh lion . 
+*PAR:tiger . 
+*PAR:giraffe . 
+*PAR:rhinoceros . 
+*PAR:hippopotamus . 
+*PAR:zebra . 
+*PAR:antelope . 
+*PAR:&uh wildcat . 
+*PAR:bear . 
+*PAR:(.) moose . 
+*PAR:(.) &uh reindeer . 
+*PAR: .  
+*INV:name as many animals as you can think of . 
+*PAR:&uh alligators . 
+*PAR:crocodiles . 
+*PAR:lizards . 
+*PAR:guinea pigs . 
+*PAR:gerbils . 
+*PAR:cats . 
+*PAR:dogs . 
+*PAR:monkeys . 
+*PAR:(..) orangutans . 
+*PAR:&hip &uh Australia [//] &uh kangaroos . 
+*INV:okay  that's fine . 
+*PAR: wallabies . 
+*INV:and you can start now . 
+*PAR:father . 
+*PAR:&=clears:throat <feather no> [//] feather . 
+*PAR:&uh (..)  „ huh .  
+*PAR:field . 
+*PAR:trees . 
+*PAR:(..) &uh &hm (..) &uh +... 
+*PAR: .  
+*PAR:friends . 
+*PAR:(.) &uh +... 
+*PAR:yeah   ?  
+*PAR:that's difficult to try to +...  
+*PAR:I got friendsq .  
+*PAR:(.) &hm (..) &um father . 
+*PAR:friend . 
+*PAR:&uh +... 
+*INV:okay . 
+*PAR: fjʊləu [: ] [* n] . 

@@ -1,0 +1,50 @@
+*INV:ready ? 
+*INV:one minute's time all the animals . 
+*INV:go ahead begin . 
+*PAR:dog . 
+*PAR:cat . 
+*PAR:&uh mouse . 
+*PAR:&um &uh (.) a &uh groundhog . 
+*PAR:&um rabbit . 
+*PAR:did I have rabbitq ?  
+*INV:hmhunh . 
+*PAR:&uh (.) squirrel . 
+*PAR:&um fox . 
+*PAR:&uh (..) deer . 
+*PAR:do I have deerq ?  
+*INV:mhm . 
+*PAR:&um (...) bear . 
+*PAR:&um +... 
+*INV:okay  that's a minute . 
+*INV:that's good . 
+*INV:now I'm going to ask you in one minute's time I want you to name
+*PAR: ?  
+*INV: , the letter  . 
+*PAR: mhm .  
+*INV:and I only want one form of the word . 
+*INV:for instance if you gave me the word walkq I wouldn't want you to
+*PAR: &hm yeah  I see .  
+*INV: just one form of the word and no proper names or nouns . 
+*PAR: mhm .  
+*INV:no proper names . 
+*PAR: what about fourq ?  
+*INV:yeah  fourq . 
+*INV:but just one form of the word . 
+*PAR: okay [/] okay .  
+*INV: okay ? 
+*PAR:mhm .  
+*INV:all the letter  words you can think of . 
+*PAR:all the -s .  
+*INV: ready ? 
+*PAR:mhm .  
+*INV: go ahead . 
+*PAR:first . 
+*PAR:&um (.) &um funny . 
+*PAR:(.) four . 
+*PAR:(..) &um fall . 
+*PAR:(..) flip . 
+*PAR:(.) fight . 
+*PAR:(.) firm . 
+*PAR:(..) falling . 
+*INV:(...) okay  that's a minute . 
+*INV:good . 

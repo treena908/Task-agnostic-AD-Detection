@@ -1,0 +1,27 @@
+*INV:can you name some animals for me ? 
+*INV:any animal at all . 
+*PAR:&=sighs +... 
+*INV:can you name some animals ? 
+*INV:think of some animals . 
+*INV:can you say some animals for me ? 
+*PAR:&=sighs well  dogs . 
+*PAR:and cats . 
+*INV:mhm . 
+*INV:any other ones ? 
+*PAR:&hm (.) &=sighs +... 
+*INV:okay . 
+*INV:now I want you to do some /. 
+*INV:&gin with the letter  . 
+*INV:and you can start now . 
+*INV:name any word at all you can think of that begins with the letter
+*PAR:fun . 
+*INV:mhm . 
+*INV:any other words ? 
+*INV:any word at all that begins with the letter  . 
+*PAR:&=sighs +... 
+*INV:can you think of any word at all ? 
+*PAR:hmhunh .  
+*INV:any word that begins with the letter  . 
+*INV:(..) can you think of any words at all that begin with the letter
+*PAR:fun . 
+*INV:okay . 

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><xmi:XMI xmlns:pos="http:///de/tudarmstadt/ukp/dkpro/core/api/lexmorph/type/pos.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:tweet="http:///de/tudarmstadt/ukp/dkpro/core/api/lexmorph/type/pos/tweet.ecore" xmlns:morph="http:///de/tudarmstadt/ukp/dkpro/core/api/lexmorph/type/morph.ecore" xmlns:dependency="http:///de/tudarmstadt/ukp/dkpro/core/api/syntax/type/dependency.ecore" xmlns:type5="http:///de/tudarmstadt/ukp/dkpro/core/api/semantics/type.ecore" xmlns:type7="http:///de/tudarmstadt/ukp/dkpro/core/api/transform/type.ecore" xmlns:type6="http:///de/tudarmstadt/ukp/dkpro/core/api/syntax/type.ecore" xmlns:type2="http:///de/tudarmstadt/ukp/dkpro/core/api/metadata/type.ecore" xmlns:type3="http:///de/tudarmstadt/ukp/dkpro/core/api/ner/type.ecore" xmlns:type4="http:///de/tudarmstadt/ukp/dkpro/core/api/segmentation/type.ecore" xmlns:type="http:///de/tudarmstadt/ukp/dkpro/core/api/coref/type.ecore" xmlns:constituent="http:///de/tudarmstadt/ukp/dkpro/core/api/syntax/type/constituent.ecore" xmlns:chunk="http:///de/tudarmstadt/ukp/dkpro/core/api/syntax/type/chunk.ecore" xmlns:custom="http:///webanno/custom.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <type2:DocumentMetaData xmi:id="1" sofa="12" begin="0" end="188" language="x-unspecified" documentTitle="discourse.txt" documentId="discourse.txt" documentUri="file:/C:/Users/Shahla/.webanno/repository/project/0/document/2/source/discourse.txt" collectionId="file:/C:/Users/Shahla/.webanno/repository/project/0/document/2/source/" documentBaseUri="file:/C:/Users/Shahla/.webanno/repository/project/0/document/2/source/" isLastSegment="false"/>
+    <type4:Sentence xmi:id="19" sofa="12" begin="0" end="20"/>
+    <type4:Sentence xmi:id="24" sofa="12" begin="22" end="127"/>
+    <type4:Sentence xmi:id="29" sofa="12" begin="129" end="188"/>
+    <type4:Token xmi:id="34" sofa="12" begin="0" end="4"/>
+    <type4:Token xmi:id="44" sofa="12" begin="5" end="10"/>
+    <type4:Token xmi:id="54" sofa="12" begin="11" end="18"/>
+    <type4:Token xmi:id="64" sofa="12" begin="19" end="20"/>
+    <type4:Token xmi:id="74" sofa="12" begin="22" end="33"/>
+    <type4:Token xmi:id="84" sofa="12" begin="34" end="39"/>
+    <type4:Token xmi:id="94" sofa="12" begin="40" end="44"/>
+    <type4:Token xmi:id="104" sofa="12" begin="45" end="48"/>
+    <type4:Token xmi:id="114" sofa="12" begin="48" end="49"/>
+    <type4:Token xmi:id="124" sofa="12" begin="50" end="54"/>
+    <type4:Token xmi:id="134" sofa="12" begin="55" end="57"/>
+    <type4:Token xmi:id="144" sofa="12" begin="58" end="65"/>
+    <type4:Token xmi:id="154" sofa="12" begin="66" end="69"/>
+    <type4:Token xmi:id="164" sofa="12" begin="70" end="73"/>
+    <type4:Token xmi:id="174" sofa="12" begin="73" end="74"/>
+    <type4:Token xmi:id="184" sofa="12" begin="75" end="80"/>
+    <type4:Token xmi:id="194" sofa="12" begin="81" end="83"/>
+    <type4:Token xmi:id="204" sofa="12" begin="84" end="90"/>
+    <type4:Token xmi:id="214" sofa="12" begin="91" end="97"/>
+    <type4:Token xmi:id="224" sofa="12" begin="98" end="100"/>
+    <type4:Token xmi:id="234" sofa="12" begin="101" end="106"/>
+    <type4:Token xmi:id="244" sofa="12" begin="107" end="112"/>
+    <type4:Token xmi:id="254" sofa="12" begin="113" end="117"/>
+    <type4:Token xmi:id="264" sofa="12" begin="118" end="120"/>
+    <type4:Token xmi:id="274" sofa="12" begin="121" end="125"/>
+    <type4:Token xmi:id="284" sofa="12" begin="126" end="127"/>
+    <type4:Token xmi:id="294" sofa="12" begin="129" end="132"/>
+    <type4:Token xmi:id="304" sofa="12" begin="133" end="139"/>
+    <type4:Token xmi:id="314" sofa="12" begin="140" end="144"/>
+    <type4:Token xmi:id="324" sofa="12" begin="145" end="150"/>
+    <type4:Token xmi:id="334" sofa="12" begin="151" end="155"/>
+    <type4:Token xmi:id="344" sofa="12" begin="156" end="160"/>
+    <type4:Token xmi:id="354" sofa="12" begin="161" end="165"/>
+    <type4:Token xmi:id="364" sofa="12" begin="166" end="171"/>
+    <type4:Token xmi:id="374" sofa="12" begin="172" end="176"/>
+    <type4:Token xmi:id="384" sofa="12" begin="177" end="179"/>
+    <type4:Token xmi:id="394" sofa="12" begin="180" end="183"/>
+    <type4:Token xmi:id="404" sofa="12" begin="184" end="187"/>
+    <type4:Token xmi:id="414" sofa="12" begin="187" end="188"/>
+    <custom:DA_annotation xmi:id="424" sofa="12" begin="0" end="20" da_type="SOM"/>
+    <custom:DA_annotation xmi:id="429" sofa="12" begin="22" end="127" da_type="answer"/>
+    <custom:DA_annotation xmi:id="434" sofa="12" begin="129" end="188" da_type="question"/>
+    <type2:TagsetDescription xmi:id="439" sofa="12" begin="0" end="0" layer="webanno.custom.DA_annotation" name="da_values"/>
+    <type2:TagsetDescription xmi:id="446" sofa="12" begin="0" end="0" layer="de.tudarmstadt.ukp.dkpro.core.api.syntax.type.dependency.Dependency" name="UD Universal Dependencies"/>
+    <type2:TagsetDescription xmi:id="453" sofa="12" begin="0" end="0" layer="de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity" name="Named Entity tags"/>
+    <type2:TagsetDescription xmi:id="460" sofa="12" begin="0" end="0" layer="de.tudarmstadt.ukp.dkpro.core.api.transform.type.SofaChangeAnnotation" name="Operation"/>
+    <type2:TagsetDescription xmi:id="467" sofa="12" begin="0" end="0" layer="de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS" name="UD Universal POS tags"/>
+    <cas:Sofa xmi:id="12" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="Haag plays Elianti .&#13;&#10;Rolls-Royce Motor Cars Inc. said it expects its U.S. sales to remain steady at about 1,200 cars in 1990 .&#13;&#10;The luxury auto maker last year sold 1,214 cars in the U.S."/>
+    <cas:View sofa="12" members="1 19 24 29 34 44 54 64 74 84 94 104 114 124 134 144 154 164 174 184 194 204 214 224 234 244 254 264 274 284 294 304 314 324 334 344 354 364 374 384 394 404 414 424 429 434 439 446 453 460 467"/>
+</xmi:XMI>

@@ -1,0 +1,67 @@
+*INV:and you can begin now . 
+*PAR:cat . 
+*PAR:dog . 
+*PAR:mouse . 
+*PAR:(.) &uh cow . 
+*PAR:horse . 
+*PAR:an ox . 
+*PAR:&uh elephant . 
+*PAR:a monkey . 
+*PAR:&uh lion . 
+*PAR:&uh jeez .  
+*PAR:oh  kangaroo . 
+*PAR:(..) cat . 
+*PAR:I don't think I said catq „ did I ?  
+*INV:just keep goin(g) . 
+*PAR:(.) giraffe . 
+*PAR:(.) a seal . 
+*PAR:did I say horseq ?  
+*PAR:(.) pig . 
+*PAR:(.) oh  a lamb . 
+*INV:okay  time's up . 
+*PAR: a goat . 
+*INV:okay . 
+*PAR: &=laughs .  
+*INV:okay  now I'm going to change directions on you . 
+*INV:this time I want you to think of as many words beginning with the
+*PAR: mhm .  
+*INV:any word at all that begins with the letter  . 
+*PAR:  .  
+*INV:except proper names and places . 
+*PAR: oh .  
+*INV:now let me give you an example . 
+*INV:if I was using the letter sl something like Spainq or Sallyq . 
+*PAR: mhm .  
+*INV:they wouldn't be counted . 
+*PAR: mhm .  
+*INV:okay . 
+*INV:also you wouldn't wanna use derivatives . 
+*INV:for example using the letter rl . 
+*INV:runq runnerq and runningq . 
+*PAR: &hm .  
+*INV:they'd all be counted as one word . 
+*PAR: mhm .  
+*INV:so  as many words beginning with the letter  that as can think
+*PAR: firm . 
+*INV:and you can begin now . 
+*PAR:four . 
+*PAR:fist . 
+*PAR:feed . 
+*PAR:fuel . 
+*PAR:(.) fragrance . 
+*PAR:feather . 
+*PAR:fiddle . 
+*PAR:(.) &uh friend . 
+*PAR:(.) &uh fellow . 
+*PAR:&=laughs  .  
+*PAR:&uh funnel . 
+*PAR:(.) fries . 
+*PAR:can I use that ?  
+*INV:mhm . 
+*PAR:did I say featherq ?  
+*PAR:I think so „ yeah .  
+*INV:okay . 
+*PAR:&uh (.) furrow . 
+*PAR:(..) a flash . 
+*INV:okay . 
+*INV:time up . 

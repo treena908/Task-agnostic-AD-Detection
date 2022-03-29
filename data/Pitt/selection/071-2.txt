@@ -1,0 +1,71 @@
+*PAR:oh .  
+*PAR:dogs . 
+*PAR:bear . 
+*PAR:cats . 
+*PAR:donkeys . 
+*PAR:rhinoceros . 
+*PAR:&uh cows . 
+*PAR:horses . 
+*PAR:chickens . 
+*PAR:hens . 
+*PAR:&=sighs deer . 
+*PAR:rabbits . 
+*PAR:lions . 
+*PAR:tigers . 
+*PAR:monkeys . 
+*PAR:elephants . 
+*PAR:giraffes . 
+*PAR:(...) a block .  
+*INV:you've got about twenty seconds . 
+*PAR: twenty seconds .  
+*PAR:&uh kangaroos . 
+*PAR:orangutans . 
+*INV:&uh chimpanzees . 
+*PAR:&um (..) ocellaries [: ocelots] [* n:k-ret] [//] ocelots . 
+*PAR:&=laughs twenty seconds is a long time .  
+*INV:time's up &=laughs . 
+*PAR:thank heavens .  
+*INV:now  we hafta do this one again too . 
+*INV:think of as many words beginning with the letter  as you can
+*INV:that's any word at all that begins with the letter  except for
+*INV:for example if I was using the letter sl Spainq or Sallyq that
+*PAR:&uh &e what &uh excuseme again ?  
+*INV:I want the letter  . 
+*PAR:<yes I> [//] but you said what were the restrictions ? 
+*PAR:&uh &uh . 
+*INV: proper names and places . 
+*PAR:not [/] not allowed .  
+*INV:right . 
+*PAR: okay . 
+*INV:like Spainq Sallyq and derivatives runq runnerq runningq would
+*INV:so  as many words as you can think of beginning with the letter
+*PAR:let's see .  
+*PAR:friendly . 
+*PAR:fellows . 
+*PAR:following . 
+*PAR:few . 
+*PAR:females . 
+*PAR:found . 
+*PAR:four &=laughs . 
+*PAR:fences . 
+*PAR:&=laughs from . 
+*PAR:(..) fromage . 
+*PAR:fruit . 
+*PAR:fructify . 
+*PAR:fortify . 
+*PAR:friendly . 
+*PAR:used it already .  
+*PAR:&=laughs forces . 
+*PAR:fenestra . 
+*PAR:(..) fizzle . 
+*PAR:funk . 
+*PAR:funkk .  
+*PAR:(..) fast . 
+*PAR:forceful . 
+*PAR:forgetful . 
+*PAR:appropriate .  
+*INV:&=laughs . 
+*PAR:&=laughs farthing . 
+*PAR:franc . 
+*PAR:as in coin .  
+*INV:okay  time's up &=laughs . 

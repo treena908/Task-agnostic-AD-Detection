@@ -1,0 +1,49 @@
+*INV:all the animals you can think of . 
+*INV:and you can begin now . 
+*PAR:cat . 
+*PAR:dog . 
+*PAR:animals .  
+*PAR:lamb . 
+*PAR:sheep . 
+*PAR:goat . 
+*PAR:cow . 
+*PAR:hos [: horse] [//] horse &uh people say . 
+*PAR:(.) let me see  .  
+*PAR:I said cow „ didn't I ?  
+*INV:just name whatever you can think of . 
+*PAR:oh  I think I already said cow .  
+*PAR:(.) pig . 
+*PAR:did I have ?  
+*PAR:goat . 
+*PAR:&=whispers I think I said that .  
+*PAR:(..) I never been on a farm .  
+*PAR:all I see on my street is cats and dogs .  
+*PAR:(.) a bird . 
+*PAR:I gotta go up and clean her cage today too .  
+*INV:okay  good . 
+*INV:now I'm going to change directions and you can begin now . 
+*PAR:fun . 
+*PAR:fight . 
+*PAR:fighter . 
+*PAR:food . 
+*PAR:foil . 
+*PAR:fraction . 
+*PAR:fickle . 
+*PAR:(.) funnel . 
+*PAR:did I say funnel already „ hon ?  
+*INV:just keep naming all the words you can think of . 
+*PAR:funnel . 
+*PAR:fur . 
+*PAR:<do I> [//] can I use a verb like furnishq ?  
+*INV:any word at all that you can think of . 
+*PAR: furnish . 
+*PAR:(.) &uh fry . 
+*PAR:frier . 
+*PAR:(.) float . 
+*PAR:(..) fond . 
+*PAR:fondly . 
+*PAR:(...) fall . 
+*PAR:like fall of the year .  
+*PAR:and <the other> [/] the other fall .  
+*PAR:to fall down the stairs .  
+*INV:okay  good . 

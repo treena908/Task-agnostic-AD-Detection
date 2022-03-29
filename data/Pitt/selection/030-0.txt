@@ -1,0 +1,76 @@
+*INV:okay  good . 
+*INV:you can begin now . 
+*PAR:&uh duck . 
+*PAR:cow . 
+*PAR:geese . 
+*PAR:&uh squirrels . 
+*PAR:cows . 
+*PAR:horses . 
+*PAR:&uh pigs . 
+*PAR:lambs . 
+*PAR:&uh ewes . 
+*PAR:sheep . 
+*PAR:&um oh tiger . 
+*PAR:lion . 
+*PAR:oh  you [//] did you say farm animals only ?  
+*INV: mhm . 
+*PAR:oh  &uh no tiger .  
+*PAR:no lion .  
+*INV:yeah  <you can> [//] farm animals are allowed . 
+*PAR:oh  &uh farm animals as well as &uh +..?  
+*INV:farm animals , pet animals , and zoo animals . 
+*PAR: pet and zoo animals .  
+*PAR:oh  tiger . 
+*PAR:lion . 
+*PAR:bear . 
+*PAR:&uh monkey . 
+*PAR:ape . 
+*PAR:Gargantua . 
+*PAR:&uh lion . 
+*PAR:lioness . 
+*PAR:&um jaguar . 
+*PAR:leopard . 
+*PAR:&uh puma . 
+*PAR:aardvark . 
+*PAR:elephant . 
+*PAR:&uh elephant [//] &uh zebra . 
+*PAR:kangaroo . 
+*PAR:&uh kangaroo [//] &uh &um +... 
+*INV:okay  that's good thankgod . 
+*INV:&=laughs that's a little bit too much . 
+*INV:I was almost going off the paper . 
+*INV:okay  we're gonna do the same thing again only this time with the
+*INV:any word beginning with letter  . 
+*INV:it can't . 
+*PAR:any word ?  
+*INV: any &le word . 
+*INV:but it can't be like a proper name like in SanFranciscoq or
+*INV:it can't be that . 
+*INV:also don't use the same word that has derivatives of it . 
+*INV:for example runq runnerq and runningq would be counted as one
+*PAR:  one word .  
+*INV: okay ? 
+*PAR:you want the letter  .  
+*INV:right . 
+*PAR:anything that begins with  .  
+*INV:right . 
+*INV:okay . 
+*INV:and you can begin now . 
+*PAR:&uh freight train . 
+*PAR:fun . 
+*PAR:figure . 
+*PAR:folly . 
+*PAR:&uh fool . 
+*PAR:&uh that wouldn't be right .  
+*PAR:&uh &uh &uh frankincense . 
+*PAR:&um football . 
+*PAR:farmer . 
+*PAR:field judge . 
+*PAR:&um fireman . 
+*PAR:field mouse . 
+*PAR:(...) &uh &f &uh  &uh freedom . 
+*PAR:&uh &f &uh  &uh (.) &farm /. 
+*PAR:no proper names .  
+*PAR:&um gosh  I ran dry on -s .  
+*PAR:&uh frequently . 
+*INV:okay  that's good . 

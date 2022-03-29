@@ -1,0 +1,53 @@
+*INV:yep  off you go . 
+*PAR:&=clears:throat now you [/] &w you don't want anything [/] anything
+*INV: yeah  any animals at all . 
+*PAR: anything at all „ huh ? 
+*PAR:&=coughs rhinoceros . 
+*PAR:a camel . 
+*PAR:pig . 
+*PAR:hog . 
+*PAR:horse . 
+*PAR:dog . 
+*PAR:cat . 
+*PAR:&um &hm hog . 
+*PAR:guinea pig . 
+*PAR:&=clears:throat Republican &=laughs .  
+*PAR:oh  let's see what else .  
+*PAR:&uh &um did I say just straight cowq ?  
+*PAR:I think I did „ didn't I ?  
+*PAR:and I [/] &s I said horseq „ didn't I ?  
+*INV:okay  carry on . 
+*PAR:&hm hog . 
+*PAR:goat . 
+*PAR:camel . 
+*PAR:elephant . 
+*PAR:rhinoceros . 
+*PAR:&um and I might throw another Republican in there .  
+*PAR:that'll +...  
+*PAR:see what else .  
+*PAR:&uh +... 
+*INV:okay  hold it there . 
+*INV:off you go . 
+*PAR:food . 
+*PAR:frank . 
+*PAR:fee . 
+*PAR:find . 
+*PAR:foreclose . 
+*PAR:&um (.) not the name Ferdinand .  
+*PAR:you don't want no names .  
+*PAR:&uh &hm fox . 
+*PAR:that's tougher than what I thought it was .  
+*PAR:I thought I could name more than that  .  
+*PAR:&uh   .  
+*PAR:I don't know .  
+*PAR:I don't wanna think too hard .  
+*PAR:I might get a headache .  
+*INV:&=laughs carry on . 
+*INV:there's [/] there's time yet . 
+*INV:any words beginning with  . 
+*PAR:<any word beginning> [/] any word beginning with  .  
+*PAR:it don't hafta be an animal .  
+*INV:no [/] no  any word at all beginning with  . 
+*PAR:find . 
+*PAR:feel . 
+*PAR:foreclose . 

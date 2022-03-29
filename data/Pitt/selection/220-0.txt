@@ -1,0 +1,37 @@
+*INV:okay  good . 
+*INV:animals and you can begin now . 
+*PAR:(.) cat . 
+*INV:okay . 
+*PAR:(.) a goat . 
+*PAR:a horse . 
+*PAR:&uh (..) a dog . 
+*PAR:(.) &uh (...) a bike . 
+*PAR:uhhuh ?  
+*PAR:well  that's not an animal though .  
+*INV: okay  right  you wanna tell me animals . 
+*PAR:yeah  let's see .  
+*PAR:(.) I said horseq already  huh .  
+*INV:mhm  yeah . 
+*PAR:&hm (..) cat . 
+*INV:okay . 
+*PAR:a dog /. 
+*PAR: I [/] I think we had that already .  
+*INV:right . 
+*PAR:dog . 
+*PAR:and &uh &hm +... 
+*INV:okay that's fine . 
+*INV:and you can begin now . 
+*PAR:fun . 
+*PAR:(.) freedom . 
+*PAR:&uh (..) fun , freedom .  
+*PAR:foolish &=laughs . 
+*PAR:(...) I'm thinking &=laughs .  
+*INV: mhm  that's okay . 
+*PAR:(...) family . 
+*PAR:(..) children „ I guess . 
+*INV:okay  words that begin with  . 
+*PAR:oh  just  ?  
+*INV:mhm . 
+*PAR:ah .  
+*PAR:(...) foolish &=laughs . 
+*INV:okay  good . 

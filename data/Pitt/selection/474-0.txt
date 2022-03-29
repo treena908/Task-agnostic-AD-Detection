@@ -1,0 +1,32 @@
+*PAR:dog . 
+*PAR:cat . 
+*PAR:lamb . 
+*PAR:cow . 
+*PAR:giraffe . 
+*PAR:lion . 
+*PAR:tiger . 
+*PAR:elephant . 
+*PAR:hyena . 
+*PAR:(...) goat . 
+*INV:(...) any others ? 
+*PAR:huh ?  
+*INV:any others you can think of ? 
+*PAR: „ I guess .  
+*PAR:four . 
+*PAR:fellow . 
+*PAR:fact . 
+*PAR:(..) few . 
+*PAR:floozy . 
+*INV:&=laughs that's a word . 
+*PAR:&=laughs .  
+*PAR:from . 
+*PAR:fish . 
+*PAR:&uh you didn't want that .  
+*INV:that's okay . 
+*INV:any words at all . 
+*PAR:flower . 
+*PAR:fixture . 
+*PAR:(..) frame . 
+*PAR:(..) fussy . 
+*PAR:fairy . 
+*INV:okay . 

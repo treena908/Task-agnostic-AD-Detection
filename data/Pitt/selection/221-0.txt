@@ -1,0 +1,59 @@
+*INV:in one minute . 
+*INV:and you can begin now . 
+*PAR:aardvark . 
+*PAR:bear . 
+*PAR:camel . 
+*PAR:deer . 
+*PAR:elk . 
+*PAR:&uh &um fawn fawnk . 
+*PAR:&uh hl a hare harek . 
+*PAR:&um jackal . 
+*PAR:&uh kangaroo . 
+*PAR:&uh llama . 
+*PAR:&uh mare marek . 
+*PAR:&uh opossum . 
+*PAR:&uh &um &=laughs +... 
+*INV:ten seconds . 
+*PAR: &uh &um I ran out .  
+*INV:five more seconds . 
+*PAR:dog . 
+*PAR:cat . 
+*PAR:chicken . 
+*INV:okay . 
+*INV:okay  now what I want you to do is to think of as many words
+*PAR: as in Frank ?  
+*INV: right . 
+*INV:any word at all beginning with the letter  except for proper
+*INV:&um and it also cannot be a derivative for example runq runnerq
+*INV:that would all be counted as one word runq runnerq and runningq
+*PAR: yes [/] yes .  
+*INV:okay  so  want I want you to do is think of as many words
+*PAR:  .  
+*INV:and you can begin now . 
+*PAR:&uh did you say Frankq ?  
+*INV:okay, &+n . 
+*PAR: &uh proper names ?  
+*PAR:no [/] &+f no proper names .  
+*PAR:&uh faultk . 
+*PAR:faintk . 
+*PAR:farmerk . 
+*PAR:&uh  fast . 
+*INV: you can say the word . 
+*INV:you don't hafta spell . 
+*PAR:&uh &uh fast .  
+*PAR:feast . 
+*PAR:&uh fustionn fustionk . 
+*PAR:&uh  &uh flamingo . 
+*PAR:&uh friendly . 
+*PAR:flute . 
+*PAR:fluke flukek . 
+*PAR:&uh flimsy . 
+*PAR:frenetic . 
+*PAR:&uh fistula . 
+*PAR:&uh fibrosis . 
+*PAR:&uh fenestra . 
+*PAR:&uh fidelity . 
+*PAR:&uh flamingo . 
+*PAR:&uh  +...  
+*INV:okay . 
+*INV:I hadta stop you . 

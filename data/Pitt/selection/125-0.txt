@@ -1,0 +1,71 @@
+*INV: . 
+*PAR:&uh (.) I'll say &uh elephant . 
+*INV:any more ? 
+*PAR:is that alright ?  
+*INV:mhm  that's an animal . 
+*INV:can you tell me some more names of animals ? 
+*PAR:oh &uh donkey . 
+*INV:okay  carry on . 
+*PAR:&uh (.) horse . 
+*INV:okay . 
+*INV:and more . 
+*PAR:zebra . 
+*INV:keep going . 
+*PAR:&h (.) elephant . 
+*INV:okay  tell me another . 
+*PAR:donkey . 
+*INV:mhm  tell me some more . 
+*PAR:sheep . 
+*INV:mhm  and more . 
+*PAR: . 
+*INV:okay  now I'm going to ask you to do something +... 
+*INV:any of those words that begin with  . 
+*PAR:camel .  
+*PAR:(..) camel ?  
+*INV:mhm  okay . 
+*INV:I want words that begin with  . 
+*INV:begin with the sound &f [/] &f . 
+*INV:can you think of those ? 
+*INV:we're not doing animals anymore . 
+*INV:we're doing words that begin with  . 
+*PAR:begin with what ?  
+*INV: . 
+*PAR: ?  
+*INV:mhm  let me write it down for you . 
+*INV:www . 
+*INV:that letter . 
+*INV:words that begin with that letter . 
+*INV:what is that ? 
+*PAR:it's a nl of one there .  
+*PAR:right there .  
+*PAR:there's [//] yeah  this one and that one .  
+*INV:okay  tell me what this says . 
+*INV:what does that say ? 
+*PAR:fun .  
+*INV:yeah . 
+*INV:what letter is that ? 
+*PAR:(..) funq no good ?  
+*INV:yeah  that's right . 
+*PAR:I want you to spell the letters for me . 
+*PAR:oh .  
+*INV:you got it right . 
+*INV:that says funq . 
+*INV:what letter's this ? 
+*PAR:(..) &m cry .  
+*INV:what letter's this one ? 
+*INV:shall I tell you ? 
+*INV:funk . 
+*PAR: nl .  
+*INV:that's an  . 
+*PAR:nl .  
+*INV:can you think of other words that begin with this sound ? 
+*PAR:(..) simple but I can't connect it .  
+*INV:mhm . 
+*INV:if I give you another word like that . 
+*INV:www . 
+*INV:what does that word say ? 
+*PAR:fog .  
+*INV:okay  what's this sound ? 
+*INV: &f . 
+*PAR: .  
+*INV:mhm . 
